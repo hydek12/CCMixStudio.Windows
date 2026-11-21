@@ -1,4 +1,4 @@
-CCMixStudio is a native macOS SwiftUI utility for inspecting, extracting, merging, and exporting assets from Westwood Studios .MIX archives.
+CCMixStudio is a  utility for inspecting, extracting, merging, and exporting assets from Westwood Studios .MIX archives.
 
 Archive Handling: Parses unencrypted and RSA/Blowfish-encrypted .MIX archives, expands and unexpands nested .MIX sub-archives in place, deduplicates or overwrites colliding CRC IDs during archive merges, and exports combined .MIX files or batch-extracted assets.
 
